@@ -64,3 +64,21 @@ nav ul li {
   text-align: center;
   padding-bottom: 120px;
 }
+
+
+/* section style */
+
+.action {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px 200px;
+  align-items: center;
+}
+
+section h1 {
+  color: #252432;
+}
+
+section h3 {
+  color: rgba(37, 36, 50, 0.5);
+}
